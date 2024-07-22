@@ -12,7 +12,7 @@ This only works because of special branches that are automatically created in yo
 
 * [What are the `alive branches` and why do I need them?](#what-are-the-alive-branches-and-why-do-i-need-them)
 
-Regardless of your choice, please [Disable Automatic Installation from *TestFlight*](gh-deploy.md#disable-automatic-install-from-testflight){: target="_blank" }. You should be alert any time your *Loop* app is updated. Check that all settings are maintained and pay attention to make sure the app behavior is nominal.
+Regardless of your choice, please [Disable Automatic Installation from *TestFlight*](gh-deploy.md#disable-automatic-install-from-testflight){: target="_blank" }. You should be alert any time your *Loop* app is updated. Check that all settings are maintained and pay attention to make sure the app behavior is normal.
 
 You still need to **take these actions** to ensure a recent build of the *Loop* app is available in *TestFlight* for you to install on your phone when you choose:
 
